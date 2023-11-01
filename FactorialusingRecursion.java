@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class FactorialusingRecursion {
 
-//    Write a program to calculate (recursion must be used) factorial of a number in Java?
+
 
     static int factorial(int n){
         if(n==0 || n==1){
